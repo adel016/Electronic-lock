@@ -26,7 +26,7 @@ This project is really complex if you want to understand everything here are som
 
 # 1- Tinkercad
 
-First you must register or log on to the site "https://www.tinkercad.com/" it's totally free.
+First you must register or log on to the website "https://www.tinkercad.com/" it's totally free.
 
 #### if you have the material you can skip this step
 
@@ -34,5 +34,5 @@ First you must register or log on to the site "https://www.tinkercad.com/" it's 
 # 2- Reproduce the connection of the devices between them
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/adel016/Electronic-lock/blob/main/Screenshot/img1.png?raw=true)
 
