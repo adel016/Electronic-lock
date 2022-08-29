@@ -37,3 +37,27 @@ First you must register or log on to the website "https://www.tinkercad.com/" it
 
 
 ![App Screenshot](https://github.com/adel016/Electronic-lock/blob/main/Screenshot/img1.png?raw=true)
+
+
+# 3- The Code
+
+In Tinkercad project we can write Code 
+
+### include this library
+
+```
+#include <EEPROM.h>
+
+#include <Wire.h>
+
+#include <LiquidCrystal_I2C.h>
+
+#include <Keypad.h>
+```
+
+
+to include it you can also search it by clicking in this button
+
+![App Screenshot](https://user-images.githubusercontent.com/87034297/187315046-334d87f4-76d1-44bf-b476-c3d326ab9017.png)
+
+
